@@ -10,3 +10,5 @@ Android Studio 入門指南
 <br>
 2.Android Developer : [Android Studio Tips and Tricks](http://developer.android.com/sdk/installing/studio-tips.html)
 <br>
+3.Techotopia : [Android Studio Development Essentials](http://www.techotopia.com/index.php/Android_Studio_Development_Essentials)
+<br>
