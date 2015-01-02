@@ -1,7 +1,7 @@
-AndroidStudio
+Android Studio 入門指南
 =============
 
-Android Studio 入門指南
+
 
 
 * * *
