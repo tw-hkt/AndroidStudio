@@ -3,7 +3,7 @@ Android 開發筆記
 <br />
 <br />
 <br />
-![](https://raw.githubusercontent.com/tw-hkt/AndroidTutorial/master/img/img0022.png)
+![](https://raw.githubusercontent.com/tw-hkt/AndroidTutorial/master/img/cover/Cover0002.png)
 <br />
 <br />
 <br />
