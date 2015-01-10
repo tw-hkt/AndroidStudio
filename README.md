@@ -10,6 +10,8 @@ Android 開發筆記
 # 目錄
 - [安裝 Android Studio](https://github.com/tw-hkt/AndroidTutorial/blob/master/doc/00001.%20%E5%AE%89%E8%A3%9DAndroid%20Studio.md)
 
+- [第一個 Android Studio APP](https://github.com/tw-hkt/AndroidTutorial/blob/master/doc/00002.%20%E5%BB%BA%E7%AB%8B%E7%AC%AC%E4%B8%80%E5%80%8BAPP.md)
+
 <br />
 <br />
 <br />
