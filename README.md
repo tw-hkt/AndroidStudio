@@ -23,3 +23,5 @@ Android 開發筆記
 <br>
 3.Techotopia : [Android Studio Development Essentials](http://www.techotopia.com/index.php/Android_Studio_Development_Essentials)
 <br>
+3.IntelliJIDEA : [Quick Start](http://confluence.jetbrains.com/display/IntelliJIDEA/Quick+Start)
+<br />
