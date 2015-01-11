@@ -16,12 +16,25 @@ Android 開發筆記
 <br />
 <br />
 * * *
-### 參考資料
+### 參考資料與資源
 1.Android Developer : [Android Studio Overview](http://developer.android.com/tools/studio/index.html)
 <br>
 2.Android Developer : [Android Studio Tips and Tricks](http://developer.android.com/sdk/installing/studio-tips.html)
 <br>
 3.Techotopia : [Android Studio Development Essentials](http://www.techotopia.com/index.php/Android_Studio_Development_Essentials)
 <br>
-3.IntelliJIDEA : [Quick Start](http://confluence.jetbrains.com/display/IntelliJIDEA/Quick+Start)
+4.IntelliJIDEA : [Quick Start](http://confluence.jetbrains.com/display/IntelliJIDEA/Quick+Start)
+<br />
+5.Android For Tomorrow: [範例百科](https://sites.google.com/a/stud.sju.edu.tw/android-for-tomorrow/)
+<br />
+6.Android LIB 軍火庫: [Arsenal](https://android-arsenal.com/)
+<br />
+7.The Busy Coder's Guide to Android Development: [Commonsware](http://commonsware.com/)
+
+
+
+### UI 資源 
+1.Android Developer : [Design](http://developer.android.com/design/index.html)
+<br />
+2.Google Material Design : [正體中文版](http://wcc723.gitbooks.io/google_design_translate/content/)
 <br />
