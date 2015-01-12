@@ -12,6 +12,7 @@ Android 開發筆記
 
 - [第一個 Android Studio APP](https://github.com/tw-hkt/AndroidTutorial/blob/master/doc/00002.%20%E5%BB%BA%E7%AB%8B%E7%AC%AC%E4%B8%80%E5%80%8BAPP.md)
 
+- [Android Studio 開發環境簡介](https://github.com/tw-hkt/AndroidTutorial/blob/master/doc/00003.%20Android%20Studio%20%E9%96%8B%E7%99%BC%E7%92%B0%E5%A2%83%E7%B0%A1%E4%BB%8B.md)
 <br />
 <br />
 <br />
